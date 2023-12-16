@@ -8,4 +8,4 @@ Get started
 2. Read the readme.md, i think you can not unread and do it correctly.
 3. Enjoy it.
 
-http://watercup.ddns.net:5999/prmenu/srv/terbe-vvm/video.mov
+http://peiclnc22423.softether.net:32769/usr/iceless/srv/terbe-vvm/video.mov
